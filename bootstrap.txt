@@ -1,4 +1,0 @@
-pkg fetch "*rust-bootstrap*"
-tar xf them and put the tar.xz in /usr/ports/distfiles/rust/rust-bin/
-fetch https://dev-static.rust-lang.org/dist/rust-std-1.78.0-wasm32-unknown-unknown.tar.xz
-  we don't build it (yet) with lang/rust-bootstrap
